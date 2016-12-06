@@ -7,4 +7,10 @@ ans = a+b;
 
 return ans;
 }
+public int add(int a ,int b)
+{
+ans = a/b;
+
+return ans;
+}
 
