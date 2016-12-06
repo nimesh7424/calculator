@@ -8,3 +8,10 @@ ans = a+b;
 return ans;
 }
 
+public int square(int a)
+{
+return a*a;
+}
+
+}
+
