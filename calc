@@ -8,3 +8,10 @@ ans = a+b;
 return ans;
 }
 
+public int multiplication(int a ,int b)
+{
+ans = a*b;
+
+return ans;
+}
+
